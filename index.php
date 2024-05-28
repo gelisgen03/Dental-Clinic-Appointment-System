@@ -192,7 +192,7 @@
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.05);">
     © 2024 Copyright:
     <a class="text-body" href="https://mdbf.btu.edu.tr/bilgisayar">Gelisgen Sofware</a>
-    - Tüm Hakları Saklıdır.   <a href=""><i class="fa fa-github" style="color:black"></i></a> 
+    - Tüm Hakları Saklıdır.   <a href="https://github.com/gelisgen03/Dental-Clinic-Appointment-System.git"><i class="fa fa-github" style="color:black"></i></a> 
   </div>
   <!-- Copyright -->
 </footer>
