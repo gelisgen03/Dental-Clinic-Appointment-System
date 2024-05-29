@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $typePasswordX = $_POST['typePasswordX'];
 
     // Veritabanı bağlantısı
-    $mysqli = new mysqli("localhost", "root", "", "dentisdb");
+     $mysqli = new mysqli("sql203.infinityfree.com", "if0_36633563", "GLD5JO3WEFz", "if0_36633563_dentisdb");
 
     // Bağlantı kontrolü
     if ($mysqli->connect_error) {
