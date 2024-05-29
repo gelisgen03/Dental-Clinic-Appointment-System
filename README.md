@@ -4,6 +4,14 @@
 Herkese Merhaba
 - Html, JS ve PHP kullanarak bir web çalışması gerçekleştirdim. Bu çalışmada kullanıcı kaydının yanı sıra kullanıcı panelinden randevuda alınabilmekte.
 
+## **Xampp Kurulumu**
+* Projenin localde çalışabilmesi için Xampp programına ihtiyaç vardır.
+  ### **Xampp Kurulum Linki:**
+  - https://www.youtube.com/watch?v=VCHXCusltqI
+  ### **Xampp Aktifleştirme:**
+  - ![donusum](https://github.com/gelisgen03/Hamming-Code-Simulator/assets/113345673/c9dcf62c-8681-4699-8ffe-f6483d943bc8)
+    
+
 ## **Özellikler**
 * Kullanıcı Dostu site arayüzleri
 * Database Kullanıcı kaydı
@@ -11,7 +19,7 @@ Herkese Merhaba
 * Kullanıcı panelinden veri güncelleme
 * Kullanıcı panelinde kişiye özel karşılama
 * Kullanıcı panelinde Randevu oluşturma ve randevuyu görüntüleyebilme
-
+* 
 ## **Resimler**
  ![Screenshot 2024-05-28 233253](https://github.com/gelisgen03/Hungury-Monkey-Game/assets/113345673/35aced81-72b1-4330-9b6c-36f9f6c1dc30)
  --------------------------------------------------------
