@@ -5,7 +5,7 @@ Herkese Merhaba
 - Html, JS ve PHP kullanarak bir web çalışması gerçekleştirdim. Bu çalışmada kullanıcı kaydının yanı sıra kullanıcı panelinden randevuda alınabilmekte.
 
 ## **Xampp Kurulumu**
-* Projenin localde çalışabilmesi için Xampp programına ihtiyaç vardır.
+* Eğer projenizi localde çalıştırmak isterseniz Xampp programına ihtiyacınız vardır.
   ### **Xampp Kurulum Linki:**
   - https://www.youtube.com/watch?v=VCHXCusltqI
   ### **Xampp Aktifleştirme:**
