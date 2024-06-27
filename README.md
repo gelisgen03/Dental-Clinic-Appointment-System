@@ -1,26 +1,26 @@
 # Dental-Clinic-Appointment-System
 
-## **Proje Hakkında**
-Herkese Merhaba
-- Html, JS ve PHP kullanarak bir web çalışması gerçekleştirdim. Bu çalışmada kullanıcı kaydının yanı sıra kullanıcı panelinden randevuda alınabilmekte.
+## **About the project**
+Hello everyone
+- I created a web project using Html, JS and PHP. In this study, in addition to user registration, appointments can be made from the user panel.
 
-## **Xampp Kurulumu**
-* Eğer projenizi localde çalıştırmak isterseniz Xampp programına ihtiyacınız vardır.
-  ### **Xampp Kurulum Linki:**
+## **Xampp Installation**
+* If you want to run your project locally, you need the Xampp program.
+  ### **Xampp Installation Link:**
   - https://www.youtube.com/watch?v=VCHXCusltqI
-  ### **Xampp Aktifleştirme:**
+  ### **Xampp Activation:**
   - ![donusum](https://github.com/gelisgen03/Hamming-Code-Simulator/assets/113345673/c9dcf62c-8681-4699-8ffe-f6483d943bc8)
  --------------------------------------------------------   
 
-## **Özellikler**
-* Kullanıcı Dostu site arayüzleri
-* Database Kullanıcı kaydı
-* Kullanıcı panelinden veri görüntüleme
-* Kullanıcı panelinden veri güncelleme
-* Kullanıcı panelinde kişiye özel karşılama
-* Kullanıcı panelinde Randevu oluşturma ve randevuyu görüntüleyebilme
+## **Features**
+* User-Friendly site interfaces
+* Database User registration
+* View data from user panel
+* Data update from user panel
+* Personalized welcome on the user panel
+* Ability to create and view appointments in the user panel
 
-## **Resimler**
+## **Images**
  ![Screenshot 2024-05-28 233253](https://github.com/gelisgen03/Hungury-Monkey-Game/assets/113345673/35aced81-72b1-4330-9b6c-36f9f6c1dc30)
  --------------------------------------------------------
 ![Screenshot 2024-05-29 001838](https://github.com/gelisgen03/Hungury-Monkey-Game/assets/113345673/929e9fc7-cb6b-401f-9841-1aab88dc8e23)
@@ -44,10 +44,10 @@ Herkese Merhaba
 ![Screenshot 2024-05-29 002445](https://github.com/gelisgen03/Hungury-Monkey-Game/assets/113345673/5ae88120-3493-46d4-afb2-67b4a67f0497)
 --------------------------------------------------------
 
-## **Web Site Linki**
+## **Website Link**
 - http://appointment.wuaze.com/
-## **Video Linki**
+## **Video Link**
 - https://youtu.be/_6Dgl-ZIzBg
 
-#### **Teşekkürler :)**
+#### **Thanks :)**
   
